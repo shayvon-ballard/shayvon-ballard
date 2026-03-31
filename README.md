@@ -24,7 +24,7 @@ I build security tools that automate the kind of work SOC analysts do every day 
 - CompTIA Security+ *(in progress)*
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayvon-ballard)## Hi there 👋
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayvon-ballard)## Hi there 👋](https://www.linkedin.com/in/shayballard/)
 
 <!--
 **shayvon-ballard/shayvon-ballard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
