@@ -11,6 +11,7 @@ I build security tools that automate the kind of work SOC analysts do every day 
 | [VulnTracker](https://github.com/shayvon-ballard/vulntracker) | Vulnerability management tool with NVD API integration and remediation tracking | Python, Flask, SQLite |
 | [ThreatTrace](https://github.com/shayvon-ballard/ThreatTrace) | SIEM log analyzer with brute force, privilege escalation, and suspicious IP detection | Python, Flask |
 | [Network Port Scanner](https://github.com/shayvon-ballard/network-port-scanner) | TCP port scanner with service identification and risk classification | Python, Flask |
+| [Phishing Email Analyzer](https://github.com/shayvon-ballard/phishing-email-analyzer) | Analyzes raw email headers and URLs to detect phishing indicators and assign a risk score | Python, Flask |
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
