@@ -1,6 +1,6 @@
 # Hi, I'm ShayVon Ballard 👋
 
-🔐 Cybersecurity professional transitioning into a SOC Analyst role | Customer Care Specialist at State Farm Insurance focused on fraud detection and compliance monitoring.
+🏆 Tech professional transitioning into SOC Analyst and Data Engineering roles | Customer Care Specialist at State Farm Insurance focused on fraud detection and compliance monitoring.
 
 ## 🛡️ What I Build
 I build security tools that automate the kind of work SOC analysts do every day — vulnerability tracking, log analysis, threat detection, and network reconnaissance.
@@ -8,9 +8,15 @@ I build security tools that automate the kind of work SOC analysts do every day 
 ## 🔧 Projects
 | Project | Description | Stack |
 |---|---|---|
+
+| [Insurance Data Pipeline](https://github.com/shayvon-ballard/insurance-data-pipeline) | ETL pipeline ingesting, validating, and analyzing insurance data across policy, claims, and underwriting systems | Python, Pandas, DuckDB, Parquet |
+
 | [VulnTracker](https://github.com/shayvon-ballard/vulntracker) | Vulnerability management tool with NVD API integration and remediation tracking | Python, Flask, SQLite |
+
 | [ThreatTrace](https://github.com/shayvon-ballard/ThreatTrace) | SIEM log analyzer with brute force, privilege escalation, and suspicious IP detection | Python, Flask |
+
 | [Network Port Scanner](https://github.com/shayvon-ballard/network-port-scanner) | TCP port scanner with service identification and risk classification | Python, Flask |
+
 | [Phishing Email Analyzer](https://github.com/shayvon-ballard/phishing-email-analyzer) | Analyzes raw email headers and URLs to detect phishing indicators and assign a risk score | Python, Flask |
 
 ## 🧰 Tech Stack
