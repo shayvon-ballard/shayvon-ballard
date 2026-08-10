@@ -4,7 +4,7 @@
 
 I build technical solutions that turn raw data into clear, actionable insights. My work focuses on data analysis, dashboard development, reporting automation, data preparation, and process improvement using tools such as Power BI, SQL, Python, Excel, and GitHub.
 
-I also have experience building security-focused technical projects, which strengthened my skills in data validation, automation, pattern analysis, and problem solving.
+I also have experience building security focused technical projects, which strengthened my skills in data validation, automation, pattern analysis, and problem solving.
 
 ## 📊 What I Build
 
