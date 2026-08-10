@@ -27,7 +27,7 @@ My projects include:
 |---|---|---|
 | [Marketing Analytics Reporting Solution](https://github.com/shayvon-ballard/marketing-analytics-reporting-solution) | End-to-end marketing analytics project combining data preparation, SQL analysis, DAX measures, and an executive Power BI dashboard to evaluate campaign performance, ROI, conversion rates, and acquisition costs. | Power BI, DAX, Python, SQL, Pandas |
 | [Insurance Data Pipeline](https://github.com/shayvon-ballard/insurance-data-pipeline) | ETL pipeline for ingesting, validating, transforming, and analyzing insurance data across policy, claims, and underwriting datasets. | Python, Pandas, DuckDB, Pandera, Parquet |
-| [Executive Retail Sales Dashboard](https://github.com/shayvon-ballard/executive-retail-sales-dashboard) Interactive Power BI dashboard designed to analyze sales performance, KPIs, product trends, and business performance. | Power BI, DAX |
+| [Executive Retail Sales Dashboard](https://github.com/shayvon-ballard/executive-retail-sales-dashboard) | Interactive Power BI dashboard designed to analyze sales performance, KPIs, product trends, and business performance. | Power BI, DAX |
 | [ThreatTrace](https://github.com/shayvon-ballard/ThreatTrace) | Python-based analytics application that processes log data, identifies suspicious activity patterns, assigns severity levels, and generates structured findings. | Python, Flask, Data Analysis |
 | [Phishing Email Analyzer](LINK-HERE) | Automated analysis tool that parses email data, evaluates indicators, extracts URLs, and calculates risk scores. | Python, Flask |
 
